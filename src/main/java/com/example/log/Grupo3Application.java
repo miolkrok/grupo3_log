@@ -16,7 +16,7 @@ public class Grupo3Application {
 		LOG.warn("USO DE API OBSOLETA 'CASI ERROR' ");
 		LOG.info("EVENTOS INTERESANTES EN TIEMPO DE EJECUCION");
 		LOG.debug("información detallada sobre el flujo a través del sistema.");
-		LOG.trace("INFORMACION MAS DETALLADA");
+		LOG.trace("INFORMACION MAS DETALLADA ");
 		
 	}
 
